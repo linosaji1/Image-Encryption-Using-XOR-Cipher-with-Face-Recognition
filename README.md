@@ -34,7 +34,7 @@ pip install customtkinter
 * Navigate to the directory where your Python script is located.
 * Run the script by executing the following command:
 	* python main.py
-* Upon running the script, a GUI window will appear for authentication.
+* Upon running the script, a GUI window will appear.
 * You can choose to encrypt or decrypt an image.
 * The encryption/decryption process will be performed on the selected image file.
 
