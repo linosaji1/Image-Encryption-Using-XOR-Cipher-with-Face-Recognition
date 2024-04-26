@@ -40,4 +40,6 @@ pip install customtkinter
 
   ** Make sure to replace the database credentials (host, user, password) in the database.py code with your actual MySQL database credentials.
 
+* Create a folder named "Faces" inside the Face_detect folder
+
 * If the face data is deleted from Face_detect/Faces, run the t.py code before running main.py.
