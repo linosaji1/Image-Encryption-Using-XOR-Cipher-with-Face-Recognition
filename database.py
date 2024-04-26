@@ -14,7 +14,7 @@ class Datas:
                 )
             self.cursor = self.db.cursor()
         except:
-            print('Connection Failed')
+            print('Database Connection Failed')
             sys.exit(0)
     def search(self,name):
         try:
