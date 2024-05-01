@@ -43,3 +43,6 @@ pip install customtkinter
 * Create a folder named "Faces" inside the Face_detect folder
 
 * If the face data is deleted from Face_detect/Faces, run the t.py code before running main.py.
+
+# References
+* Face-recognition-Using-Facenet-On-Tensorflow-in_colab : https://github.com/gauravesh/Face-recognition-Using-Facenet-On-Tensorflow-in_colab
